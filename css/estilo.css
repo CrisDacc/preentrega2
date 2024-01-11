@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&family=Pacifico&display=swap');
+
+
+/*HEADER*/
+
+.barraInicio{
+    background-color: #DB8535;
+
+}
+
+.logo{
+    width: 250px;
+}
+.tituloChef{
+    color: black;
+    text-align: center;
+    background-color: #E66212;
+    text-transform: uppercase;
+}
+.fuente{
+    font-family: 'Dela Gothic One', sans-serif;
+   
+}
+
+.banner{
+    text-align: center;
+    font-family: 'Dela Gothic One', sans-serif;
+    background-image: url(../img/mesa.png);
+    width: 1fr;
+   
+}
+
+/*Propuestas*/
+
+.propuesta{
+    font-family: 'Dela Gothic One', sans-serif;
+}
+
+
+
+/*Contacto*/
+
+
+
+
+/*Footer*/
+.footer{
+    text-align: center;
+    color: grey;
+
+}
+
